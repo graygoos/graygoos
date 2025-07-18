@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Femi Aliu
 ## 📱 iOS Developer
-- 🔎 I’m looking to find my first position as an iOS developer
-- 🌱 I’m currently building my iOS porfolio
+- 🧑🏽‍💻 Indie app developer building my iOS app portfolio
+- 🚀 Actively developing and shipping iOS apps to the App Store
 - 👨🏽‍💻 I work primarily with Swift, SwiftUI, and UIKit
 - 💞️ I’m looking to collaborate on SwiftUI and UIKit projects
 - ✋🏽 Ask me about Swift, Xcode, SwiftUI, UIKit
